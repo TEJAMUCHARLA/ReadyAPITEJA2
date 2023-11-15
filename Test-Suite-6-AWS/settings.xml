@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:testSuite id="d6080c2d-759e-4dae-9160-3eed9a535ecf" name="Test Suite 6 AWS" xmlns:con="http://eviware.com/soapui/config">
-  <con:settings>
+<con:testSuite xmlns:con="http://eviware.com/soapui/config" id="d6080c2d-759e-4dae-9160-3eed9a535ecf" name="Test Suite 6 AWS">
+  <con:settings id="954b04ae-5351-48bb-b211-4829d0e46065">
     <con:setting id="d6080c2d-759e-4dae-9160-3eed9a535ecffileName">Test-Suite-6-AWS</con:setting>
   </con:settings>
   <con:runType>SEQUENTIAL</con:runType>
