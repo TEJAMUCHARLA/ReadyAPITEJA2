@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="d6080c2d-759e-4dae-9160-3eed9a535ecf" name="Test Suite 6 AWS" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="d6080c2d-759e-4dae-9160-3eed9a535ecffileName">Test-Suite-6-AWS</con:setting>
+  </con:settings>
+  <con:runType>SEQUENTIAL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>
